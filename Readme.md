@@ -1,4 +1,4 @@
-Selenide:
+Selenide Project Sample:[![Build status](https://ci.appveyor.com/api/projects/status/8km8kb6nct5a53eg?svg=true)](https://ci.appveyor.com/project/Gabr12el/auto3ordercardsenenide)
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
